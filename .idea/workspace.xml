@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8e7c9a40-abd2-475f-976b-fce657f81cbd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Api_view/Basic_Apis/App_Api/serializer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment/collect_files.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment/d_flatter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment/sorted_list_elements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django_Projects/Python/reservedwords.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django_Projects/filedata_djangodb/djangodb/templates/file.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django_Projects/filedata_djangodb/djangodb/templates/show_data.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django_Projects/filedata_djangodb/djangodb/templates/update.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python_Hyd/files.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python_Hyd/regular.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../customer/employee/emp_app/forms.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1cvtHCRZwVr8mmw1hAelyR1Qypx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8e7c9a40-abd2-475f-976b-fce657f81cbd" name="Default Changelist" comment="" />
+      <created>1591420804886</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591420804886</updated>
+    </task>
+    <servers />
+  </component>
+</project>
