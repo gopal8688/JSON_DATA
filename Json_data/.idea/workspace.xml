@@ -11,18 +11,40 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="973291ee-f35a-487a-8bb1-3a35519aba83" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Api_view/Basic_Apis/.idea/Basic_Apis.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Api_view/Basic_Apis/App_Api/serializer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Api_viewwith_fun/.idea/Api_viewwith_fun.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment/.idea/Assignment.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment/Customer_Project/customer/.idea/customer.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Assignment/collect_files.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Assignment/d_flatter.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Assignment/sorted_list_elements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django_Projects/Python/.idea/Python.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Django_Projects/Python/reservedwords.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django_Projects/filedata_djangodb/.idea/filedata_djangodb.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django_Projects/filedata_djangodb/djangodb/.idea/djangodb.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Django_Projects/filedata_djangodb/djangodb/templates/file.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Django_Projects/filedata_djangodb/djangodb/templates/show_data.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Django_Projects/filedata_djangodb/djangodb/templates/update.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Json_app/serializer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django_Projects/html/.idea/html.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django_Projects/image_pro/image_app/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django_Projects/image_pro/image_app/templates/image_form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_Hyd/.idea/Python_Hyd.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Python_Hyd/files.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Python_Hyd/regular.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../customer/.idea/customer.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../customer/employee/emp_app/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../data_Json/Json_data/.idea/Json_data.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../databaseprograms/databaseprograms/.idea/databaseprograms.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Json_app/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Json_app/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/Json_app/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Json_app/serializer.py" beforeDir="false" afterPath="$PROJECT_DIR$/Json_app/serializer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Json_app/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Json_app/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Json_data/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Json_data/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Json_data/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Json_data/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirement.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirement.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +59,8 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectId" id="1cvt2DfCmhLmhYtpAN1VqtrhUIo" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -46,9 +69,16 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../customer-dashboard" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\rgopa\Desktop\RestBasic\Json_file\Json_data\Json_app\migrations" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -74,5 +104,15 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1591616545457">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1591616545457" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1591530099408">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1591530099408" />
   </component>
 </project>

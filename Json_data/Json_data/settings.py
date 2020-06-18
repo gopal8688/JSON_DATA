@@ -40,6 +40,14 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'Json_app',
 ]
+REST_FRAMEWORK = {
+    # 'DEFAULT_RENDERER_CLASSES': (
+    #     'rest_framework.renderers.JSONRenderer',
+    #     'rest_framework.renderers.BrowsableAPIRenderer',
+    # ),
+    'DATETIME_FORMAT': "%b %d %Y %I:%M %p"
+    #'DATETIME_FORMAT': "%Y %m %d %H:%M %p"
+}
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
@@ -78,7 +86,7 @@ WSGI_APPLICATION = 'Json_data.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'json_data',
+        'NAME': 'data_json',
         'USER':'root',
         'PASSWORD':'root'
     }

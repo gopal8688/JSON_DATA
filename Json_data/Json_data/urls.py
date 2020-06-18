@@ -19,12 +19,12 @@ from rest_framework.routers import DefaultRouter
 from Json_app import views
 router = DefaultRouter()
 router.register('time',views.Time_slat_post)
-router.register('customer',views.Customer_post)
+#router.register('customer',views.Customer_post,basename='Customer')
 
 
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('api/', include(router.urls)),
-    #path('tus/', views.Customer_post.as_view()),
+    path('customer_data/', views.Customer_post.as_view()),
 
 ]

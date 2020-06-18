@@ -1,10 +1,11 @@
 from django.db import models
 
-# Create your models here.
 
 class Timeslat(models.Model):
-    startdate = models.DateTimeField()
-    enddate = models.DateTimeField()
+
+    startdate = models.DateTimeField(default='Asia/Kolkata')
+    enddate = models.DateTimeField(default='Asia/Kolkata')
+
 
 class Customer(models.Model):
     id_no = models.IntegerField(primary_key=True)
